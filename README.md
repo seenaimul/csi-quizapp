@@ -10,7 +10,7 @@ We will have all the updated resources of each sessions in this Repository
 2. Link of GitHub: [GitHub.com](https://github.com/)
 3. Link of Git: [Download Git](https://git-scm.com/downloads)
 4. Link to Download Visual Studio Code: [Download VSCode](https://code.visualstudio.com/download)
-
+5. Link to Download XAMPP : [Download XAMPP](https://www.apachefriends.org/download.html)
 # Session 2
 
 # Session 3
