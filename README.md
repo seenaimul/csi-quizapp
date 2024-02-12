@@ -22,3 +22,6 @@ We will have all the updated resources of each sessions in this Repository
 
 ### Additional Resources
 [Markdownguide](https://www.markdownguide.org/)
+[W3School for HTML,CSS, JS etc](https://www.w3schools.com/html/html_elements.asp)
+[Mdn web docs](https://developer.mozilla.org/en-US/docs/Learn)
+[Bootstrap Template](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
