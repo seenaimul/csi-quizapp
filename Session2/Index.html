@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>QuizApp</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <div class="container">
+      <!-- Header Section -->
+      <div class="header">
+        <div class="logo">QuizApp</div>
+        <div class="search-box">
+          <input type="text" placeholder="Search quiz..." />
+        </div>
+        <div class="action-buttons">
+          <button class="login-btn" onclick="loginClicked()">LOG IN</button>
+          <button class="signup-btn" onclick="signupClicked()">SIGN UP</button>
+          <button class="join-quiz-btn" onclick="joinQuizClicked()">
+            Join Quiz
+          </button>
+        </div>
+      </div>
+
+      <div class="main">
+        <!-- Welcome Section -->
+        <div class="welcome-container">
+          <div class="welcome">
+            <div class="title">Welcome to QuizApp</div>
+            <div class="description">
+              Your one-stop source to learn, assess with fun
+            </div>
+          </div>
+          <button class="signup-btn-grey" onclick="signupClicked()">
+            Sign up now
+          </button>
+        </div>
+
+        <!-- Quiz Cards -->
+        <div class="quiz-cards">
+          <div class="quiz-card">
+            <div>
+              <img src="images/minion.png" />
+            </div>
+            <div class="title">CSI Community</div>
+            <button class="start-btn" onclick="startQuizClicked()">
+              START
+            </button>
+          </div>
+          <div class="quiz-card">
+            <div>
+              <img src="images/minion.png" />
+            </div>
+            <div class="title">CSI Community</div>
+            <button class="start-btn" onclick="startQuizClicked()">
+              START
+            </button>
+          </div>
+          <div class="quiz-card">
+            <div>
+              <img src="images/minion.png" />
+            </div>
+            <div class="title">CSI Community</div>
+            <button class="start-btn" onclick="startQuizClicked()">
+              START
+            </button>
+          </div>
+          <div class="quiz-card">
+            <div>
+              <img src="images/minion.png" />
+            </div>
+            <div class="title">CSI Community</div>
+            <button class="start-btn" onclick="startQuizClicked()">
+              START
+            </button>
+          </div>
+
+          <!-- Add more quiz cards as needed -->
+        </div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
